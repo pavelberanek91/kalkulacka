@@ -3,6 +3,7 @@ def main():
   prijmeni = input("Zadej prijmeni: ")
   print("Ahoj", jmeno, prijmeni)  
   print("tak nashle")
+  print("blablablablablabla")
 
 if __name__ == "__main__":
   main()
@@ -11,3 +12,4 @@ if __name__ == "__main__":
 #git switch uprava
 #git add .
 #git commit -m "hlaska" 
+#git pull
