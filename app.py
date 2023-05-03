@@ -12,4 +12,11 @@ if __name__ == "__main__":
 #git switch uprava
 #git add .
 #git commit -m "hlaska" 
-#git pull
+#git push
+#git pull 
+
+#1. stejna vetev, lokalne resime konflikty
+#2. ruzne vetve, konflikty resi nekdo pri PR
+#3. forkovani
+
+#git stash
