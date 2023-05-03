@@ -1,5 +1,5 @@
 def main():
-  jmeno = input("Zadej jmeno: ")
+  jmeno = "Pepa"
   print("Ahoj", jmeno)  
 
 if __name__ == "__main__":
