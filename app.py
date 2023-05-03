@@ -1,4 +1,5 @@
 def main():
+  print("baf lek")
   jmeno = input("Zadej jmeno: ")
   print("Ahoj", jmeno)  
 
