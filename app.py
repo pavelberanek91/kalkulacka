@@ -8,3 +8,5 @@ if __name__ == "__main__":
 
 #git branch uprava
 #git switch uprava
+#git add .
+#git commit -m "hlaska"
