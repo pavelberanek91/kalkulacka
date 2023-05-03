@@ -1,9 +1,5 @@
 def main():
   jmeno = input("Zadej jmeno: ")
-  prijmeni = input("Zadej prijmeni: ")
-  print("Ahoj", jmeno, prijmeni)  
-  print("tak nashle")
-  print("blablablablablabla")
 
 if __name__ == "__main__":
   main()
