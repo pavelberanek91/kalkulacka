@@ -1,4 +1,5 @@
 def main():
+  print("baf lek")
   jmeno = "Pepa"
   print("Ahoj", jmeno)  
 
