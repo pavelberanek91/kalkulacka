@@ -8,3 +8,4 @@ def main():
   print(secti(a=5, b=3))
 
 # git commit -am "Pridal funkci na odecitani"
+# git push
