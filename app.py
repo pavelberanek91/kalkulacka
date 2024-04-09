@@ -1,8 +1,13 @@
+from math import inf
+
 def vynasob(a: float, b: float) -> float:
   return a * b
 
 def vydel(a: float, b: float) -> float:
-  return a/b
+  if b == 0:
+    return inf
+  else:
+    return a/b
 
 def odecti(a: float, b: float) -> float:
   return a - b
@@ -15,3 +20,9 @@ def main():
 
 # git commit -am "Pridal funkci na odecitani"
 # git push
+
+#git fetch origin 
+#git checkout 1-deleni-neni-bezpecne
+
+# git branch
+# git switch main
