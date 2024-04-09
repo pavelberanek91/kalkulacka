@@ -7,5 +7,4 @@ def secti(a: float, b: float) -> float:
 def main():
   print(secti(a=5, b=3))
 
-# git add .
-# git commit -m "Pridal funkci na odecitani"
+# git commit -am "Pridal funkci na odecitani"
