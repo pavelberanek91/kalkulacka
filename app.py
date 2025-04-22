@@ -11,11 +11,13 @@ class Kalkulacka:
     return a - b
   
   @staticmethod
-  def nasobeni(a, b):
+  def nasobeni(a: float, b: float) -> float:
+    """Funkce pro nasobeni"""
     return a * b
 
   @staticmethod
-  def deleni(a, b):
+  def deleni(a: float, b: float) -> float:
+    """Funkce pro deleni"""
     return a / b
 
   @staticmethod
