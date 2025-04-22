@@ -1,11 +1,13 @@
 class Kalkulacka:
 
   @staticmethod
-  def secti(a, b):
+  def secti(a: float, b: float) -> float:
+    """Funkce pro scitani cisel"""
     return a + b
   
   @staticmethod
-  def odecti(a, b):
+  def odecti(a: float, b: float) -> float:
+    """Funkce pro odcitani cisel"""
     return a - b
   
   @staticmethod
