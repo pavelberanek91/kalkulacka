@@ -12,9 +12,3 @@ def deleni(a, b):
 
 def modulo(a, b):
   return a % b
-
-# git add .
-# git commit -m "dodelal jsem modulo funkci kalkulacky"
-# git push
-# git pull
-# vim: esc :q!
