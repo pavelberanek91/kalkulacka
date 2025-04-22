@@ -16,7 +16,8 @@ class Kalkulacka:
     return a * b
 
   @staticmethod
-  def deleni(a, b):
+  def deleni(a: float, b: float) -> float:
+    """Funkce pro deleni"""
     return a / b
 
   @staticmethod
