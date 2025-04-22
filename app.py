@@ -17,3 +17,4 @@ def modulo(a, b):
 # git commit -m "dodelal jsem modulo funkci kalkulacky"
 # git push
 # git pull
+# vim: esc :q!
