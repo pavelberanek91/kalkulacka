@@ -21,7 +21,8 @@ class Kalkulacka:
     return a / b
 
   @staticmethod
-  def modulo(a, b):
+  def modulo(a: float, b: float) -> float:
+    """Funkce pro modulo"""
     return a % b
 
 def main():
