@@ -9,3 +9,5 @@ def nasobeni(a, b):
 
 def deleni(a, b):
   return a / b
+
+def modulo(a, b): ... # tohle dodelej zdenku
