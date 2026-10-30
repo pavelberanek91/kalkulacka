@@ -1,3 +1,2 @@
-print("blblblblblblb")
-
-print("hahahahahahahaha")
+print("baaaaaaaaaaaaaaaaaaa")
+print("bbbbbbbbbbbbbbbbbb")
