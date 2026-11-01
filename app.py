@@ -6,3 +6,6 @@ def odecti(a, b):
 
 def vynasob(a, b):
     return a * b
+
+def vydel(a, b):
+    return a / b
